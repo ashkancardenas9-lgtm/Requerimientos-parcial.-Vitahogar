@@ -107,7 +107,7 @@ Nombre, cédula, síntomas, dirección de residencia, cantidad de personas cubie
 ### Entregables del caso
 01. Autor y video
 
-- **Autor:** [Tu nombre completo]
+- **Autor:**   Ashkan David Cardenas Sterling
 - **Curso:** Programación 1 · Segundo corte · Caso B
 - **Docente:** David Escobar Valencia
 - **Video explicativo:** [Pega aquí el enlace]
