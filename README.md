@@ -90,6 +90,31 @@ Nombre, cédula, síntomas, dirección de residencia, cantidad de personas cubie
 7. Visualizar información
 8. Salir
 
+   
+   Backlog del producto
+Identificador	Historia de Usuario	Origen	Prioridad	Sprint
+HU-01	Mostrar planes preventivos	RF-01	Alta	1
+HU-02	Menú principal	RF-02	Alta	1
+HU-03	Autorización de datos personales	RF-14	Alta	1
+HU-04	Registrar cliente	RF-03	Alta	1
+HU-05	Seleccionar tipo de plan	RF-04	Alta	1
+HU-06	Registrar otros usuarios	RF-05	Alta	1
+HU-07	Calcular valor mensual	RF-06	Alta	2
+HU-08	Validar datos ingresados	RF-13	Alta	1
+HU-09	Aplicar descuento por síntoma	RF-07	Media	2
+HU-10	Visualizar información	RF-09	Media	2
+HU-11	Respaldo en TXT	RF-08	Media	3
+HU-12	Cierre de factura con "medicamento"	RF-12	Media	2
+HU-13	Operación continua	RF-11	Media	2
+HU-14	Salir del sistema	RF-10	Baja	3
+HU-15	Código comentado	RNF-03	Media	3
+HU-16	Repositorio en GitHub	RNF-10	Media	3
+Organización por sprints
+Sprint	Enfoque	Historias
+Sprint 1	Base del sistema	HU-01, HU-02, HU-03, HU-04, HU-05, HU-06, HU-08
+Sprint 2	Lógica de negocio	HU-07, HU-09, HU-10, HU-12, HU-13
+Sprint 3	Cierre y entrega	HU-11, HU-14, HU-15, HU-16
+
 ### Entregables del caso
 01. Autor y video
 
