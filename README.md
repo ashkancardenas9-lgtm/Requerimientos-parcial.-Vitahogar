@@ -99,4 +99,4 @@ Nombre, cédula, síntomas, dirección de residencia, cantidad de personas cubie
 - **Autor:**   Ashkan David Cardenas Sterling
 - **Curso:** Programación 1 · Segundo corte · Caso B
 - **Docente:** David Escobar Valencia
-- **Video explicativo:** [Pega aquí el enlace]
+- **Video explicativo:** https://youtu.be/DhoAk2q8s1g?si=c6dDf1H7GksDWTh7
