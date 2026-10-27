@@ -10,20 +10,6 @@
   Desarrollado en <b>Java</b>
 </p>
 
----
-
-## Tabla de contenido
-
-1. [Sobre la empresa](#1-sobre-la-empresa)
-2. [Descripción del proyecto](#2-descripción-del-proyecto)
-3. [Levantamiento de requerimientos](#3-levantamiento-de-requerimientos)
-4. [Protección de datos personales](#4-protección-de-datos-personales-colombia)
-5. [Del requerimiento al backlog](#5-del-requerimiento-al-backlog)
-6. [Backlog del producto](#6-backlog-del-producto)
-7. [Historias de usuario](#7-historias-de-usuario)
-8. [Cómo ejecutar el programa](#8-cómo-ejecutar-el-programa)
-9. [Estructura del repositorio](#9-estructura-del-repositorio)
-10. [Autor y video](#10-autor-y-video)
 
 ---
 
